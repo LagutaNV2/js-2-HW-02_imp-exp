@@ -1,0 +1,29 @@
+{
+  "name": "js-2-hw-02_imp-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LagutaNV2/js-2-HW-02_imp-exp.git"
+  },
+  "author": "Natalija La Gu Ta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LagutaNV2/js-2-HW-02_imp-exp/issues"
+  },
+  "homepage": "https://github.com/LagutaNV2/js-2-HW-02_imp-exp#readme",
+  "description": "",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "mini-css-extract-plugin": "^2.9.1",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
